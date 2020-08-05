@@ -1,0 +1,13 @@
+/home/will/github/entropycs/bin/Debug/netcoreapp3.1/entropycs
+/home/will/github/entropycs/bin/Debug/netcoreapp3.1/entropycs.deps.json
+/home/will/github/entropycs/bin/Debug/netcoreapp3.1/entropycs.runtimeconfig.json
+/home/will/github/entropycs/bin/Debug/netcoreapp3.1/entropycs.runtimeconfig.dev.json
+/home/will/github/entropycs/bin/Debug/netcoreapp3.1/entropycs.dll
+/home/will/github/entropycs/bin/Debug/netcoreapp3.1/entropycs.pdb
+/home/will/github/entropycs/obj/Debug/netcoreapp3.1/entropycs.csprojAssemblyReference.cache
+/home/will/github/entropycs/obj/Debug/netcoreapp3.1/entropycs.AssemblyInfoInputs.cache
+/home/will/github/entropycs/obj/Debug/netcoreapp3.1/entropycs.AssemblyInfo.cs
+/home/will/github/entropycs/obj/Debug/netcoreapp3.1/entropycs.csproj.CoreCompileInputs.cache
+/home/will/github/entropycs/obj/Debug/netcoreapp3.1/entropycs.dll
+/home/will/github/entropycs/obj/Debug/netcoreapp3.1/entropycs.pdb
+/home/will/github/entropycs/obj/Debug/netcoreapp3.1/entropycs.genruntimeconfig.cache
